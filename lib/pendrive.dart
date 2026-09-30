@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-// PLACEHOLDER: a teammate replaces this file with their real Pendrive page.
-// Keep the class name "PendrivePage" so the list page still works.
 class PendrivePage extends StatelessWidget {
   const PendrivePage({super.key});
 
